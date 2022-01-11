@@ -8,4 +8,4 @@ class Index extends React.Component {
   }
 }
 
-return Index;
+export default Index;
